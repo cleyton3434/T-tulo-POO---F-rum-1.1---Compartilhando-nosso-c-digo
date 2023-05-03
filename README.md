@@ -1,1 +1,2 @@
-# T-tulo-POO---F-rum-1.1---Compartilhando-nosso-c-digo
+# Simple Java Project
+This is a demo project that you can use with [Buddy Continuous Deployment](https://buddy.works).
